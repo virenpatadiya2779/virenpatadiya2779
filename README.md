@@ -37,8 +37,6 @@ Completed courses:
 
 ---
 
-Feel free to explore my repositories and contribute to my projects. I'm always open to feedback and collaboration opportunities!
-
 <!---
 virenpatadiya2779/virenpatadiya2779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

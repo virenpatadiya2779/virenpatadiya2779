@@ -4,7 +4,7 @@
 
 - 🌐 I’m @dev-viren
 - 👀 I’m passionate about building dynamic and responsive websites.
-- 🌱 Currently, I’m learning **Full Stack** in web development
+- 🌱 Currently, I’m expanding my knowledge in **Full Stack Web Development**.
 - 💻 I specialize in Full Stack Development, particularly using **React Js** for the frontend and **Node Js** for the backend.
 - 💞️ I’m looking to collaborate on web development projects, open source contributions, and innovative applications.
 
@@ -13,8 +13,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React Js, Redux Js, Vite Js
 - **Backend:** Node Js, Express Js, MongoDB, MySQL
 - **Devops:** GitHub Actions, Gitlab CI, Netlify, Heroku
-- **Tools & Technologies:** npm, REST APIs, Github, Firebase, Cloudflare
-- **Other Skills:** Microservices, Serverless, Micro-frontends, CI/CD, Monitoring, Web Performance, Security, Accessibility, User Experience, SEO, TDD, Agile Methodologies
+- **Tools & Technologies:** npm, REST APIs, Github, Cloudflare
 - **Soft Skills:** Leadership, Team Management, Reliable, Growth Mindset
 
 ## Learning Journey
